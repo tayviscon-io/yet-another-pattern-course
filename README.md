@@ -1,3 +1,5 @@
+<p align="center"><img width=70% src="common/image/yet-another-pattern-course.svg"></p>
+
 # Курс по Паттернам Проектирования от [Tayviscon IO](https://github.com/tayviscon-io)
 [![Official Project](https://img.shields.io/badge/Tayviscon_IO-official-%2363B175)](https://github.com/tayviscon-io/.github/blob/main/profile/README.md#tayviscon-io-github)
 
